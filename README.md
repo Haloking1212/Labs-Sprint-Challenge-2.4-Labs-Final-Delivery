@@ -27,10 +27,18 @@ After completing the prompts, you _may_ choose to deliver a presentation of your
 
 - Describe in detail the favorite feature that you built, designed or delivered as a member of your project team.
     - **Please include links to a Figma file, pull-requests or link to a file in a repository that outlines the work you did on this feature.**
+
+    ANSWER: 
+
 - Describe the biggest hurdle you overcame technically or from a design perspective.
     - **Be specific in what the problem was and how you overcame it.**
+
+    ANSWER: The biggest hurdle was just finding my excitment again, being very distracted with world noise.
+
 - Describe in detail the biggest 'inter-personal' conflict you overcame as a member of your project team.
     - **Be specific but please don't mention any team members by name.**
+
+    ANSWER: The biggest inter-personal conflict was just deciding to drop lambda and just go to college for computer cause my confidence in being a programmer isnt as high as i thought it would be.
 
 ### Slide Deck (Optional)
 
